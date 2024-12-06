@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#toggleButton {
+  padding: 10px 15px;
+  background-color: #04AA6D;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#toggleButton:hover {
+  background-color: #037d56;
+}
+
+#orderList {
+  margin-top: 20px;
+  padding-left: 20px;
+}
+.button h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+.button p {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
+.button .btn {
+  background-color: #ff5d5d;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.button .btn:hover {
+  background-color: #000000;
+}
